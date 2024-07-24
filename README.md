@@ -16,6 +16,7 @@ Any individual use or damages that result from this software are not the respons
 Run this software in virtual machines and under no circumstances send it to other people or test it on your physical device!
 
 
+*******************************************
 
 
 (Português)
