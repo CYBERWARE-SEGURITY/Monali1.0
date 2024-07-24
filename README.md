@@ -12,7 +12,7 @@ RECOMMENDATION
 
 Run this software in virtual machines and under no circumstances send it to other people or test it on your physical device!
 
-=====================================================================================================================================================================================
+===========================================================================
 
 (Português)
 ## MONALI v1.0
