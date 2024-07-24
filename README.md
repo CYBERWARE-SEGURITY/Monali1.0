@@ -1,6 +1,5 @@
 (English)
-## MONALI v1.0
-$- Developed by CYBERWARE
+## MONALI v1.0 - Developed by CYBERWARE
 
 Monali is a Malicious Software (malware) created and coded in C# and Assembly (ASM). It can be executed on Windows 10, 11, and 8.1.
 
@@ -21,8 +20,7 @@ Run this software in virtual machines and under no circumstances send it to othe
 
 
 (Português)
-## MONALI v1.0
-$- Desenvolvido Por CYBERWARE
+## MONALI v1.0 - Desenvolvido Por CYBERWARE
 
 Monali é um Software Malicioso (malware) criado e codificado em C# e Assembly (ASM). Ele pode ser executado no Windows 10, 11 e 8.1.
 
