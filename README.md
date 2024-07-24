@@ -1,14 +1,17 @@
 (English)
-MONALI v1.0
+## MONALI v1.0
 
 Monali is a Malicious Software (malware) created and coded in C# and Assembly (ASM). It can be executed on Windows 10, 11, and 8.1.
-WARNINGS!!
+
+## WARNINGS!!
 
 Monali was developed for the purpose of acquiring knowledge and for 100% ethical and educational studies. Do not use this software for malicious intentions.
-ATTENTION
+
+## ATTENTION
 
 Any individual use or damages that result from this software are not the responsibility of the developer.
-RECOMMENDATION
+
+## RECOMMENDATION
 
 Run this software in virtual machines and under no circumstances send it to other people or test it on your physical device!
 
